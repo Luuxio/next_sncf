@@ -35,7 +35,6 @@ Les utilisateurs possédant le rôle **"agent"** peuvent accéder à une carte i
 ```bash
 git clone https://github.com/Luuxio/next_sncf
 cd next_sncf
-npm i
 ```
 
 2. Installer les dépendances :
